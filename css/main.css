@@ -6,7 +6,7 @@
     border-radius: 5px;
 }
 .kanban * {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Spline Sans Mono', monospace;
 }
 
 .kanban__column{
