@@ -1,7 +1,7 @@
-import KanbanAPI from "https://antoplh.github.io/view/api/KanbanAPI.js";
-import DropZone from "https://antoplh.github.io/view/js/Dropzone.js";
-import Item from "https://antoplh.github.io/view/js/Item.js";
-import Kanban from "https://antoplh.github.io/view/js/Kanban.js";
+import KanbanAPI from "https://antoplh.github.io/js/api/KanbanAPI.js";
+import DropZone from "https://antoplh.github.io/js/view/DropZone.js";
+import Item from "https://antoplh.github.io/js/view/Item.js";
+import Kanban from "https://antoplh.github.io/js/view/Kanban.js";
 
 export default class Column{
     constructor(id, title){
