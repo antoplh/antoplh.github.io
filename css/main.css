@@ -1,7 +1,7 @@
 .kanban {
     display: flex;
     padding: 30px;
-    width: 750px;
+    width: 90%;
     background: #EFDBB2;
     border-radius: 5px;
 }
