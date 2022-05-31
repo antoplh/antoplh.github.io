@@ -92,15 +92,15 @@ function read(){
         return [
             {
                 id: 1,
-                items: [{id : 123, content : "Limpiar mi cuarto"}]
+                items: [{id : 123, content : "# Welcome!"}]
             },
             {
                 id: 2,
-                items: [{id : 456, content : "Programar"}]
+                items: [{id : 456, content : "**double click** to delete a task"}]
             },
             {
                 id: 3,
-                items: [{id : 234, content : "Lavar mi ropa"}]
+                items: [{id : 234, content : "**drag** and *drop* to change its position"}]
             }
         ];
     }
