@@ -92,7 +92,7 @@ function read(){
         return [
             {
                 id: 1,
-                items: [{id : 123, content : "### Welcome!"}]
+                items: [{id : 123, content : "first line \n second line"}]
             },
             {
                 id: 2,
@@ -109,5 +109,5 @@ function read(){
 }
 
 function save(data) {
-    localStorage.setItem("kanban-data",JSON.stringify(data,null," "));
+    localStorage.setItem("kanban-data",JSON.stringify(data));
 }

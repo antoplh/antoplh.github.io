@@ -8,7 +8,7 @@ body {
 .kanban {
     display: flex;
     padding: 30px;
-    width: 100%;
+    width: 95%;
     background: #EFDBB2;
     border-radius: 5px;
 }
